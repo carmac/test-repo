@@ -1,5 +1,6 @@
 <?php
 echo "eh... built it!!!!!!!!!!!!!!!!!";
+echo "composer test";
 
 require 'vendor/autoload.php';
 require 'Slim/Slim.php';
