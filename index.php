@@ -1,3 +1,3 @@
 <?php
-echo "working";
+echo "working<br/>Test before perms mod<br/>";
 ?>
